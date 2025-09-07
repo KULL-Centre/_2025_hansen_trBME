@@ -1,0 +1,19 @@
+# Reading SAXS data 
+# Reading 130 experimental data from ..//intensities//intensity_100.dat 
+# Reading 5001 calculated samples from ..//metad/161K/BME.dat 
+# Using linear averaging 
+# Using no scaling 
+CHI2: 18.14154 
+RMSD: 0.00901 
+VIOLATIONS: 0 
+##### WARNING ########## 
+# The maximum value of the following data is lower than expt range: 
+#          label  exp_avg exp_sigma max_calc 
+#        0.328038   0.0020   0.0005   0.0010
+Lagrange multipliers initialized from zero
+Optimizing 130 data and 5001 samples. Theta=600.000000 
+CHI2 before optimization:  18.1415 
+Execution time: 0.54 seconds
+Minimization using L-BFGS-B successful (iterations:37)
+CHI2 after optimization:   1.7802 
+Fraction of effective frames:   0.7864 
