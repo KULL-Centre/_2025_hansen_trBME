@@ -1,7 +1,7 @@
 # _2025_hansen_trBME
 # A Bayesian approach to interpret time-resolved experiments using molecular simulations
 
-This repo contains code to reproduce the analysis found in this paper [A Bayesian approach to interpret time-resolved experiments using molecular simulations]{https://doi.org/10.1101/2025.07.19.665657}. The code can be run by downloading the raw simulation data, found on [ERDA]{https://sid.erda.dk/cgi-sid/ls.py?share_id=FXhZ1bOKMA}. 
+This repo contains code to reproduce the analysis found in this paper [A Bayesian approach to interpret time-resolved experiments using molecular simulations](https://doi.org/10.1101/2025.07.19.665657). The code can be run by downloading the raw simulation data, found on [ERDA](https://sid.erda.dk/cgi-sid/ls.py?share_id=FXhZ1bOKMA). 
 
 
 ## Layout
@@ -33,7 +33,3 @@ A Bayesian approach to interpret time-resolved experiments using molecular simul
 \_eprint: https://www.biorxiv.org/content/early/2025/07/22/2025.07.19.665657.full.pdf},
 }
 ```
-
-
-
-
