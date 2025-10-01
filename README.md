@@ -7,14 +7,14 @@ This repo contains code to reproduce the analysis found in [A Bayesian approach 
 ## Layout
 Make_figures contains main_paper_figs.ipynb, which will allow you to reproduce figures from the paper. 
 The following data-file directories are available in this repo:<br>
-*`average_intensities`
+*`average_intensities`<br>
 *`Intensities`<br>
 
 The following data-file directories must be downloaded from ERDA:<br>
-*`data`
-*`ensemble_trajs`
-*`metaD`
-*`rw_results`
+*`data`<br>
+*`ensemble_trajs`<br>
+*`metaD`<br>
+*`rw_results`<br>
 *`trajs`<br>
 
 ## Citation
