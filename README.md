@@ -1,7 +1,7 @@
 # _2025_hansen_trBME
 # A Bayesian approach to interpret time-resolved experiments using molecular simulations
 
-This repo contains code to reproduce the analysis found in [A Bayesian approach to interpret time-resolved experiments using molecular simulations](https://doi.org/10.1101/2025.07.19.665657). Before the code can be run, (i) download the raw simulation data found on [ERDA](https://sid.erda.dk/cgi-sid/ls.py?share_id=FXhZ1bOKMA), setup the conda environment from `env.yml` and run `pip install kneefinder`. 
+This repo contains code to reproduce the analysis found in [A Bayesian approach to interpret time-resolved experiments using molecular simulations](https://doi.org/10.1101/2025.07.19.665657). Before the code can be run, (i) download the raw simulation data found on [ERDA](https://sid.erda.dk/cgi-sid/ls.py?share_id=FXhZ1bOKMA), (ii) setup the conda environment from `env.yml` and (iii) run `pip install kneefinder`. 
 The file `main_paper_figs` contains the code to make the figures from the paper, but can also be adapted to run trBME code on your own. 
 
 ## Layout
