@@ -19,8 +19,8 @@ The following data-file directories must be downloaded from ERDA:<br>
 
 ## Citation
 If you use this method, please cite
-*Carl G. Henning Hansen, Simone Orioli, and Kresten Lindorff-Larsen*//
-A Bayesian approach to interpret time-resolved experiments using molecular simulations (2025). bioRxiv, 2025.
+### *Carl G. Henning Hansen, Simone Orioli, and Kresten Lindorff-Larsen*
+### A Bayesian approach to interpret time-resolved experiments using molecular simulations (2025). bioRxiv, 2025.
 ```
 @article{henning_hansen_bayesian_2025,
 	title = {A {Bayesian} approach to interpret time-resolved experiments using molecular simulations},
